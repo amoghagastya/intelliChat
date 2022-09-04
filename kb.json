@@ -1,0 +1,187 @@
+[
+  {
+    "ids": 1,
+    "title": "Scheduling a RingCentral Video meeting",
+    "URL": "https://support.ringcentral.com/video/joining-scheduling/scheduling-ringcentral-video-meeting-app-desktop-web.html#outlook"
+  },
+  {
+    "ids": 2,
+    "title": "Turning on on-demand or automatic call recording",
+    "URL": "https://support.ringcentral.com/mvp/admin/company-account-settings/turning-on-on-demand-automatic-call-recording.html"
+  },
+  {
+    "ids": 3,
+    "title": "Monitoring calls for other extensions in the RingCentral app desktop and web",
+    "URL": "https://support.ringcentral.com/app/phone/desktop-web/monitoring-calls-other-extensions-ringcentral-app-desktop-web.html"
+  },
+  {
+    "ids": 4,
+    "title": "Intro to the RingCentral app",
+    "URL": "https://support.ringcentral.com/app/overview/desktop-web/intro-to-the-ringcentral-app.html"
+  },
+  {
+    "ids": 5,
+    "title": "Configuring Analytics Portal permissions",
+    "URL": "https://support.ringcentral.com/mvp/analytics/overview/configuring-analytics-portal-permissions.html"
+  },
+  {
+    "ids": 6,
+    "title": "Porting",
+    "URL": "https://support.ringcentral.com/porting.html"
+  },
+  {
+    "ids": 7,
+    "title": "Why can’t I see annotations from the host or panelist in a webinar?",
+    "URL": "https://support.ringcentral.com/webinar/panelist-and-attendee/during-webinar/cannot-see-annotations-from-host-panelist-webinar.html"
+  },
+  {
+    "ids": 8,
+    "title": "Why can’t I resend a panelist invite to myself after changing my email?",
+    "URL": "https://support.ringcentral.com/webinar/panelist-and-attendee/during-webinar/cannot-resend-panelist-invite-myself-after-changing-email.html"
+  },
+  {
+    "ids": 9,
+    "title": "Why is my avatar initials in a webinar “AU”?",
+    "URL": "https://support.ringcentral.com/webinar/panelist-and-attendee/during-webinar/why-avatar-initials-webinar-au.html"
+  },
+  {
+    "ids": 10,
+    "title": "Why can’t I resend a panelist invite to myself after changing my email?",
+    "URL": "https://support.ringcentral.com/webinar/panelist-and-attendee/during-webinar/cannot-resend-panelist-invite-myself-after-changing-email.html"
+  },
+  {
+    "ids": 11,
+    "title": "Why can’t I manage the webinar in the mobile app after being promoted as a cohost?",
+    "URL": "https://support.ringcentral.com/webinar/panelist-and-attendee/during-webinar/cannot-manage-webinar-mobile-app-after-being-promoted-cohost.html"
+  },
+  {
+    "ids": 12,
+    "title": "Invited cohosts show up as panelists during a RingCentral Webinar",
+    "URL": "https://support.ringcentral.com/webinar/troubleshooting/invited-cohosts-show-up-panelists-during-ringcentral-webinar.html"
+  },
+  {
+    "ids": 13,
+    "title": "Why was my audio disconnected when rejoining a webinar after encountering a crash?",
+    "URL": "https://support.ringcentral.com/webinar/host-cohost/during-webinar/why-audio-disconnected-rejoining-webinar-after-crash.html"
+  },
+  {
+    "ids": 14,
+    "title": "RingCentral Webinar audio continues when accepting a call on an Android device",
+    "URL": "https://support.ringcentral.com/webinar/troubleshooting/ringcentral-webinar-audio-continues-accepting-call-android-device.html"
+  },
+  {
+    "ids": 15,
+    "title": "Why can’t I open the RingCentral mobile app when joining a webinar from an Android mobile browser?",
+    "URL": "https://support.ringcentral.com/webinar/panelist-and-attendee/during-webinar/cannot-open-ringcentral-mobile-when-joining-webinar-android-browser.html"
+  },
+  {
+    "ids": 16,
+    "title": "Unable to see cohosts’ or panelists’ roles in details of past webinars",
+    "URL": "https://support.ringcentral.com/webinar/troubleshooting/unable-to-see-cohosts-panelists-role-details-past-webinars.html"
+  },
+  {
+    "ids": 17,
+    "title": "Why is my question taking too long to send in RingCentral Webinar?",
+    "URL": "https://support.ringcentral.com/webinar/panelist-and-attendee/during-webinar/why-question-taking-too-long-send-ringcentral-webinar.html"
+  },
+  {
+    "ids": 18,
+    "title": "Flipping a call in the RingCentral app desktop and web",
+    "URL": "https://support.ringcentral.com/app/phone/desktop-web/flipping-call-ringcentral-app-desktop-web.html"
+  },
+  {
+    "ids": 19,
+    "title": "Starting a conference call in the RingCentral app desktop and web",
+    "URL": "https://support.ringcentral.com/app/phone/desktop-web/starting-conference-call-ringcentral-app-desktop-web.html"
+  },
+  {
+    "ids": 20,
+    "title": "Intro to Call Forwarding and Voicemail",
+    "URL": "https://support.ringcentral.com/article/Call-Handling-Forwarding-Overview.html"
+  },
+  {
+    "ids": 21,
+    "title": "Adding a company greeting to a single-level IVR",
+    "URL": "https://support.ringcentral.com/mvp/admin/phone-system/adding-company-greeting-to-single-level-ivr.html"
+  },
+  {
+    "ids": 22,
+    "title": "Setting up how incoming calls are handled",
+    "URL": "https://support.ringcentral.com/mvp/phone/call-handling-forwarding/setting-up-how-incoming-calls-are-handled.html"
+  },
+  {
+    "ids": 23,
+    "title": "Setting up your voicemail greeting",
+    "URL": "https://support.ringcentral.com/mvp/phone/call-handling-forwarding/setting-up-voicemail-greeting.html"
+  },
+  {
+    "ids": 24,
+    "title": "Setting up how company calls are handled in a single-level IVR",
+    "URL": "https://support.ringcentral.com/mvp/admin/company-account-setup-ringcentral-app/setting-up-how-company-calls-handled-in-single-level-ivr.html"
+  },
+  {
+    "ids": 25,
+    "title": "Intro to Call Forwarding and Voicemail",
+    "URL": "https://support.ringcentral.com/article/Call-Handling-Forwarding-Overview.html"
+  },
+  {
+    "ids": 26,
+    "title": "Integrating your headset with RingCentral Phone",
+    "URL": "https://support.ringcentral.com/mvp/phone/ringcentral-phone-app/integrating-headset-with-ringcentral-phone.html"
+  },
+  {
+    "ids": 27,
+    "title": "Audio Conference Overview",
+    "URL": "https://support.ringcentral.com/article/7221.html"
+  },
+  {
+    "ids": 28,
+    "title": "Intro to Real-time reporting",
+    "URL": "https://support.ringcentral.com/engagevoice/analytics/voice-analytics-intro-real-time-report.html"
+  },
+  {
+    "ids": 29,
+    "title": "Real-time reporting IVR widget metrics",
+    "URL": "https://support.ringcentral.com/engagevoice/analytics/real-time-reporting-ivr-widget-metrics.html"
+  },
+  {
+    "ids": 30,
+    "title": "Creating a new Real-time reporting dashboard",
+    "URL": "https://support.ringcentral.com/engagevoice/analytics/creating-new-real-time-reporting-dashboard.html"
+  },
+  {
+    "ids": 31,
+    "title": "Sharing a Real-time reporting dashboard",
+    "URL": "https://support.ringcentral.com/engagevoice/analytics/sharing-real-time-reporting-dashboard.html"
+  },
+  {
+    "ids": 32,
+    "title": "Deleting a Real-time reporting dashboard",
+    "URL": "https://support.ringcentral.com/engagevoice/analytics/deleting-real-time-reporting-dashboard.html"
+  },
+  {
+    "ids": 33,
+    "title": "Adding widgets in the Real-time dashboard",
+    "URL": "https://support.ringcentral.com/engagevoice/analytics/voice-analytics-add-widgets.html"
+  },
+  {
+    "ids": 34,
+    "title": "Configuring pre-built widgets in the Real-time dashboard",
+    "URL": "https://support.ringcentral.com/engagevoice/analytics/voice-analytics-configure-pre-built-widgets.html"
+  },
+  {
+    "ids": 35,
+    "title": "Configuring custom widgets in the Real-time dashboard",
+    "URL": "https://support.ringcentral.com/engagevoice/analytics/voice-analytics-configure-custom-widgets.html"
+  },
+  {
+    "ids": 36,
+    "title": "RingCentral Video network requirements",
+    "URL": "https://support.ringcentral.com/video/overview/ringcentral-video-network-requirements.html"
+  },
+  {
+    "ids": 37,
+    "title": "RingCentral Video system requirements",
+    "URL": "https://support.ringcentral.com/video/overview/ringcentral-video-system-requirements.html"
+  }
+]
