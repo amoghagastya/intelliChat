@@ -1,9 +1,0 @@
-streamlit
-numpy
-cohere
-pandas
-umap-learn
-altair
-dotenv 
-os
-ctype
