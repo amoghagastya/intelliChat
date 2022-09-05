@@ -5,3 +5,4 @@ pandas==1.4.3
 umap-learn==0.5.3
 altair==4.2.0
 python-dotenv==0.21.0
+pinecone-client==2.0.13
