@@ -22,7 +22,8 @@ st.sidebar.header("Information Retrieval")
 st.markdown("# Information Retrieval - Semantic Search")
 
 st.write("Using Existing Knowledge Bases, we can integrate Semantic Search with Conversational Agents with ease.")
-st.write("Note: the agent below is not trained on ANY intents or training phrases and only uses the default fallback intent.")
+st.write("""Note: the agent below is not trained on ANY intents or training phrases and only uses the default fallback intent. Try typing something in
+   and the bot will query the Knowledge-base below and return the closest semantic results."""
 components.html(
     """
     <div align=center>
@@ -73,8 +74,6 @@ components.html(
 # to_upsert = list(zip(ids, embeds, meta))
 
 # index.upsert(to_upsert)
-# # let's view the index statistics
-
 # # delete_response = index.delete(deleteAll = True)
 # # index.describe_index_stats()
 # print(index.describe_index_stats())
