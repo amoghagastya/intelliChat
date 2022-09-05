@@ -22,7 +22,7 @@ st.sidebar.header("Information Retrieval")
 st.markdown("# Information Retrieval - Semantic Search")
 
 st.write("Using Existing Knowledge Bases, we can integrate Semantic Search with Conversational Agents with ease.")
-st.write("Note: the agent below is not trained on ANY intents or training phrases and only uses the default fallback intent. Try typing something in and the bot will query the Knowledge-base below and return the closest semantic results."
+st.write("Note: the agent below is not trained on ANY intents or training phrases and only uses the default fallback intent. Try typing something in and the bot will query the Knowledge-base below and return the closest semantic results.")
 components.html(
     """
     <div align=center>
