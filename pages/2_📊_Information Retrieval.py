@@ -34,7 +34,7 @@ components.html(
   language-code="en"
 ></df-messenger>
 </div>
-    """,height = 485, width = 650, scrolling=True)
+    """,height = 470, width = 650, scrolling=True)
 
 # pinecone.init(PINECONE, environment='us-west1-gcp')
 
