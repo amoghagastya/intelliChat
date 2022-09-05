@@ -11,3 +11,6 @@ Pip Install Streamlit
 pip install requirements.txt
 
 streamlit run .\??_intelliChat.py
+
+
+Link to App - https://amoghagastya-intellichat--intellichat-h2bhef.streamlitapp.com/
